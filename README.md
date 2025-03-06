@@ -25,7 +25,7 @@ Este repositório implementa e simula diferentes **algoritmos de escalonamento d
    ```
 2. Execute o simulador:
    ```bash
-   python scheduler.py
+   python main.py
    ```
 
 ## Estrutura do Repositório
